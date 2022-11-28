@@ -61,6 +61,9 @@ void Error_Handler(void);
 #define LED_Pin GPIO_PIN_5
 #define LED_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
+extern ADC_HandleTypeDef hadc1;
+
+extern UART_HandleTypeDef huart2;
 
 /* USER CODE END Private defines */
 

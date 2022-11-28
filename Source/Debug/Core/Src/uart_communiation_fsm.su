@@ -1,1 +1,3 @@
-uart_communiation_fsm.c:12:6:uart_communication_fsm	4	static
+uart_communiation_fsm.c:15:5:isRST	24	static
+uart_communiation_fsm.c:22:5:isOK	24	static
+uart_communiation_fsm.c:29:6:uart_communication_fsm	8	static
